@@ -19,4 +19,5 @@
 ## Problema p7-b
 `./hello_executable`
 
-
+## Problema p8-b
+`echo "OlÁ Mundo" > hello.txt`
