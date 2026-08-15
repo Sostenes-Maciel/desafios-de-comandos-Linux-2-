@@ -24,3 +24,6 @@
 
 ## Problema p9-b
 `touch empty.txt`
+
+## Problema 10
+`rm empty.txt`
