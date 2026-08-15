@@ -102,3 +102,6 @@
 
 ## Problema p33-i
 `dd if=/dev/zero of=arquivo_zeros.txt bs=1M count=1`
+
+## Problema p34-i
+`dd if=/dev/urandom of=arquivo_aleatorio.txt bs=1M count=2`
