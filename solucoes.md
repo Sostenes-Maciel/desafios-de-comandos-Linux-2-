@@ -30,3 +30,6 @@
 
 ## Problema p11-i
 `> empty.txt`
+
+## Problema p12-i
+`echo -n > empty.txt`
