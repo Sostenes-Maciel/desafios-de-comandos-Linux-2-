@@ -140,3 +140,7 @@
 
 ## Problema p45-i
 `rm *deleteme*`
+
+## Problema p46-i
+`grep -rl "You found the needle in the haystack!" bunch_of_files/ | xargs sed -i 's/You found the needle in the haystack!/The needle has been removed./g'`
+
