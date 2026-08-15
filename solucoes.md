@@ -138,3 +138,5 @@
 ## Problema p44-i
 `find . -mindepth 1 -maxdepth 1 -type d | wc -l`
 
+## Problema p45-i
+`rm *deleteme*`
