@@ -45,3 +45,6 @@
 
 ## Problema p16-b
 `cat hello.txt hello_copy.txt > 2_hellos.txt`
+
+## Problema p17-b
+`pwd`
