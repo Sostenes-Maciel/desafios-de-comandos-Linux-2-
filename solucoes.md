@@ -10,3 +10,6 @@
 ## Problema p4-b
 `mkdir foo`
 
+## Problema p5-i
+`mkdir -p foo/bar/1/2/3`
+
