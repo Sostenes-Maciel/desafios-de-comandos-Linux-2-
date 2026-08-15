@@ -51,3 +51,7 @@
 
 ## Problema p18-b
 `ls -l`
+
+## Problema p19-b
+`chmod +w restricted.txt`
+`nano restricted.txt`
