@@ -81,3 +81,6 @@
 
 ## Problema p26-b
 `nproc`
+
+## Problema p27-b
+`uname -r`
