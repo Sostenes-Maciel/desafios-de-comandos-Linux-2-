@@ -16,3 +16,7 @@
 ## Problema p6-b
 `rm -rf foo`
 
+## Problema p7-b
+`./hello_executable`
+
+
