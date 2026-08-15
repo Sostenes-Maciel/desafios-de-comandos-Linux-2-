@@ -21,3 +21,6 @@
 
 ## Problema p8-b
 `echo "OlÁ Mundo" > hello.txt`
+
+## Problema p9-b
+`touch empty.txt`
