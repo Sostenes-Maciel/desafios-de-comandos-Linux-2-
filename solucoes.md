@@ -111,3 +111,6 @@
 
 ## Problema p36-b
 `tac README.txt`
+
+## problema p37-i
+`cut -d ',' -f 2 people.csv`
