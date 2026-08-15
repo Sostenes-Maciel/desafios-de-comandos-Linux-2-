@@ -78,3 +78,6 @@
 
 ## Problema p25-b
 `ps aux`
+
+## Problema p26-b
+`nproc`
