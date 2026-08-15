@@ -36,3 +36,7 @@
 
 ## Problema p13-b
 `cp hello.txt goodbye.txt`
+
+## Problema p14-b
+`mv goodbye.txt hello_copy.txt`
+
