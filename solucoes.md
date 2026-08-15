@@ -131,3 +131,6 @@
 
 ## Problema p42-a
 `cut -d ',' -f 4 people.csv | grep "^Josiah$" | wc -l`
+
+## problema p43-i
+`find . -maxdepth 1 -type f | wc -l`
