@@ -105,3 +105,6 @@
 
 ## Problema p34-i
 `dd if=/dev/urandom of=arquivo_aleatorio.txt bs=1M count=2`
+
+## Problema p35-i
+`wc -l README.txt`
