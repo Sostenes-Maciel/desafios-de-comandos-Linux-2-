@@ -69,3 +69,6 @@
 `gcc compile_me.c`
 
 `./a.out`
+
+## Problem p23-a
+`./redirect &> output.txt`
