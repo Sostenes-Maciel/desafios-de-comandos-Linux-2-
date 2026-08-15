@@ -75,3 +75,6 @@
 
 ## Problema p24-b
 `date`
+
+## Problema p25-b
+`ps aux`
