@@ -6,3 +6,7 @@
 
 ## Problema p3-b
 `ls`
+
+## Problema p4-b
+`mkdir foo`
+
