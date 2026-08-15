@@ -20,4 +20,4 @@
 `./hello_executable`
 
 ## Problema p8-b
-`echo "Olá Mundo" > hello.txt`
+`echo "OlÁ Mundo" > hello.txt`
