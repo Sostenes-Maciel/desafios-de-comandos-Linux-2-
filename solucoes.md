@@ -108,3 +108,6 @@
 
 ## Problema p35-i
 `wc -l README.txt`
+
+## Problema p36-b
+`tac README.txt`
