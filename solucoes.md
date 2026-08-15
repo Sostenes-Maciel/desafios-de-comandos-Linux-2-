@@ -134,3 +134,7 @@
 
 ## problema p43-i
 `find . -maxdepth 1 -type f | wc -l`
+
+## Problema p44-i
+`find . -mindepth 1 -maxdepth 1 -type d | wc -l`
+
