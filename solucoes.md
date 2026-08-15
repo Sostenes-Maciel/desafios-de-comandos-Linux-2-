@@ -153,3 +153,8 @@
 ## problema p49-a
 `touch supercalifragilisticexpialidocious.txt`
 `rm !$`
+
+## Problema p50-a
+`touch {a..c}{1..3}.txt`
+
+AMÉM!
