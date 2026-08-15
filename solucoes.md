@@ -33,3 +33,6 @@
 
 ## Problema p12-i
 `echo -n > empty.txt`
+
+## Problema p13-b
+`cp hello.txt goodbye.txt`
