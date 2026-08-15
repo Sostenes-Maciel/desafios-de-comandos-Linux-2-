@@ -97,3 +97,6 @@
 ## Problema p31-i
 `diff greeting1.txt greeting2.txt`
 
+## Problema p32-i
+`echo "Olá"; sleep 5; echo "mundo!"`
+
