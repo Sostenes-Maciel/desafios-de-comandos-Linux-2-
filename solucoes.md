@@ -40,3 +40,5 @@
 ## Problema p14-b
 `mv goodbye.txt hello_copy.txt`
 
+## Problema p15-b
+`diff hello.txt hello_copy.txt`
