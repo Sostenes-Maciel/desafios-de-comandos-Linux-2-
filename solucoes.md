@@ -128,3 +128,6 @@
 `time tail -n +2 people.csv | cut -d ',' -f 2 | sort | uniq | wc -l`
 
 `time sed '1d' people.csv | cut -d ',' -f 2 | sort | uniq | wc -l`
+
+## Problema p42-a
+`cut -d ',' -f 4 people.csv | grep "^Josiah$" | wc -l`
