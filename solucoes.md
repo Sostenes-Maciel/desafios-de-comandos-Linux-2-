@@ -117,3 +117,6 @@
 
 ## Problema p38-a
 `cut -d ',' -f 2 people.csv | sort | uniq | wc -l`
+
+## Problema p39-a
+`tail -n +2 people.csv | cut -d ',' -f 2 | sort | uniq | wc -l`
