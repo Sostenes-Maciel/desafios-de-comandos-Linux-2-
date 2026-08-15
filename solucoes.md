@@ -55,3 +55,6 @@
 ## Problema p19-b
 `chmod +w restricted.txt`
 `nano restricted.txt`
+
+## Problema p20-b
+`./hello_executable`
