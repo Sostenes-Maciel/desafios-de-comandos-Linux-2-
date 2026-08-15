@@ -48,3 +48,6 @@
 
 ## Problema p17-b
 `pwd`
+
+## Problema p18-b
+`ls -l`
