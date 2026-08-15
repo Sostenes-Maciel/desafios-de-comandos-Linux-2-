@@ -5,3 +5,4 @@
 `cd challenges`
 
 ## Problema p3-b
+`ls`
