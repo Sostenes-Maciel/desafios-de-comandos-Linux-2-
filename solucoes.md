@@ -72,3 +72,6 @@
 
 ## Problem p23-a
 `./redirect &> output.txt`
+
+## Problema p24-b
+`date`
