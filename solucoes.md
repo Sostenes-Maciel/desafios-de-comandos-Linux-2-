@@ -120,3 +120,6 @@
 
 ## Problema p39-a
 `tail -n +2 people.csv | cut -d ',' -f 2 | sort | uniq | wc -l`
+
+## Problema p40-a
+`sed '1d' people.csv | cut -d ',' -f 2 | sort | uniq | wc -l`
