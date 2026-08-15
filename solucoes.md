@@ -100,3 +100,5 @@
 ## Problema p32-i
 `echo "Olá"; sleep 5; echo "mundo!"`
 
+## Problema p33-i
+`dd if=/dev/zero of=arquivo_zeros.txt bs=1M count=1`
