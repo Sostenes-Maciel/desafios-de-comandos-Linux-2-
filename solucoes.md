@@ -84,3 +84,7 @@
 
 ## Problema p27-b
 `uname -r`
+
+## Problema p28-b
+`grep -r "You found the needle in the haystack!" bunch_of_files/`
+
