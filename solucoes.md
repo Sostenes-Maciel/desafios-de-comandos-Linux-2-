@@ -64,3 +64,8 @@
 `chmod +x challenge_20`
 
 `./challenge_20`
+
+## Problema p22-b
+`gcc compile_me.c`
+
+`./a.out`
