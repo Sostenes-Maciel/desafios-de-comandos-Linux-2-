@@ -25,5 +25,8 @@
 ## Problema p9-b
 `touch empty.txt`
 
-## Problema 10
+## Problema p10-b
 `rm empty.txt`
+
+## Problema p11-i
+`> empty.txt`
